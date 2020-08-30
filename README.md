@@ -6,5 +6,5 @@ https://srsagehorn.github.io/sagehornHW1/
 
 HTML and CSS refactor for a fictional landing page of a company called Horiseon. Refactored with reformatted HTML and semantic tags. Reorganized CSS with tags in order and reduced rewritten style applications to the same objects
 
-![start screen](./Assets/readMeImgs/img1.png)
-![start screen](./Assets/readMeImgs/img2.png)
+![start screen](./assets/readMeImgs/img1.png)
+![start screen](./assets/readMeImgs/img2.png)
